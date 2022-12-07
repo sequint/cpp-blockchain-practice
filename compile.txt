@@ -1,0 +1,1 @@
+g++ -std=c++17 main.cpp sha256.cpp Block.cpp Blockchain.cpp -o main.exe
